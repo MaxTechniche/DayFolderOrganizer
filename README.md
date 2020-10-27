@@ -1,8 +1,5 @@
 # Day Folder Organizer
 
-## Organizes files by day \(e.g. Day_01 ..\)
+## Organizes files by day or other string \(e.g. Day_01 .. - regex style\)
 
-## NOTICE
 
-Should only be run once.  
-If run again, folders will duplicate depthwise.
